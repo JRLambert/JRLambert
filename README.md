@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JRLambert
-- 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning basic HTML coding
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning more about coding, and more about computers.
+- 🌱 I’m currently learning basic HTML coding with Freecodecamp.com
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
